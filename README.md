@@ -40,12 +40,23 @@ THEN I should have proper build scripts for a webpack application
 ## Collaboration
 
  Refer for help with : 
-Olsen Ogouchi   
+ 
+Olsen Ogouchi  
+
 <a href= "https://github.com/Chrisolsen1993"><img src="https://avatars.githubusercontent.com/u/49103700?v=4" width="50px"/></a> 
 
-Chris Champness  email:champnesschris@gmail.com   
+Chris Champness 
+
 <a href= "https://github.com/CChampness"><img src=
 "https://avatars.githubusercontent.com/u/87551272?v=4" width="50px"/></a>  
+
+
+
+David Dyer
+
+<a href= "https://github.com/djdyer"><img src=
+"https://avatars.githubusercontent.com/u/87234607?v=4" width="50px"/></a>
+
 
 
  Thank you for taking a look! Happy coding!
