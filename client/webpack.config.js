@@ -33,8 +33,8 @@ module.exports = () => {
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
-        name: 'Note-Editor',
-        short_name: 'Note-Editor',
+        name: 'JATE',
+        short_name: 'JATE',
         description: 'Editing notes!',
         background_color: '#225ca3',
         theme_color: '#225ca3',
@@ -64,11 +64,13 @@ module.exports = () => {
             loader: 'babel-loader',
             options: {
               presets: ['@babel/preset-env'],
-              plugins: ['@babel/plugin-proposal-object-rest-spread', '@babel/transform-runtime'],
+              plugins: [
+                '@babel/plugin-proposal-object-rest-spread',
+                '@babel/transform-runtime',
+              ],
             },
           },
         },
-
       ],
     },
   }
