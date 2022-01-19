@@ -1,5 +1,6 @@
 # PWD-Note-Text-Editor
 # Summary
+# Screenshot 
 ## User Story
 
 ```md
@@ -37,6 +38,14 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
+## Deployed  
+https://noteeditor.herokuapp.com/
+
+## Screenshot 
+<img width="1440" alt="Screen Shot 2022-01-19 at 9 56 12 AM" src="https://user-images.githubusercontent.com/85656320/150160027-7ae69308-c723-43ec-bbd8-a8e31a063bc0.png">
+
+<img width="1440" alt="Screen Shot 2022-01-19 at 9 56 02 AM" src="https://user-images.githubusercontent.com/85656320/150160437-f4a2a606-f429-4839-abb8-2b518fea5e3b.png">
+
 ## Collaboration
 
  Refer for help with : 
@@ -52,10 +61,7 @@ Chris Champness
 
 
 
-David Dyer
 
-<a href= "https://github.com/djdyer"><img src=
-"https://avatars.githubusercontent.com/u/87234607?v=4" width="50px"/></a>
 
 
 
