@@ -1,4 +1,4 @@
-# PWD-Note-Text-Editor
+# PWA-Note-Text-Editor
 # Summary
 # Screenshot 
 ## User Story
@@ -44,10 +44,10 @@ https://noteeditor.herokuapp.com/
 ## Screenshot 
 <img width="1440" alt="Screen Shot 2022-01-19 at 3 27 53 PM" src="https://user-images.githubusercontent.com/85656320/150208883-e11cf6a3-7789-4d48-9192-83f0eb06f006.png">
 
+<img width="1440" alt="Screen Shot 2022-01-19 at 3 28 12 PM" src="https://user-images.githubusercontent.com/85656320/150209065-00250320-9338-4156-8fe4-d64d4ecbb576.png">
 
 
 
-<img width="1440" alt="Screen Shot 2022-01-19 at 9 56 02 AM" src="https://user-images.githubusercontent.com/85656320/150160437-f4a2a606-f429-4839-abb8-2b518fea5e3b.png">
 
 ## Collaboration
 
@@ -61,8 +61,12 @@ Chris Champness
 
 <a href= "https://github.com/CChampness"><img src=
 "https://avatars.githubusercontent.com/u/87551272?v=4" width="50px"/></a>  
-
-
+ 
+ David Dyer
+ 
+<a href= "https://github.com/djdyer"><img src=
+"https://avatars.githubusercontent.com/u/87234607?v=4" width="50px"/></a>  
+ 
 
 
 
