@@ -46,7 +46,7 @@ export const getDb = async () => {
   const contactDb = await openDB('jate', 1)
 
   // Create a new transaction and specify the database and data privileges.
-  const tx = contactDb.transaction('jate', 'readwrite')
+  const tx = contactDb.transaction('jate', 'readonly')
 
   // Open up the desired object store.
   const store = tx.objectStore('jate')
@@ -56,8 +56,12 @@ export const getDb = async () => {
 
   // Get confirmation of the request.
   const result = await request
-  console.log('result.value', result)
+  // console.log('result.value', result)
+  // return result
   return result
+    .filter((x) => x.content !== null)
+    .map((x) => x.content)
+    .join('\n')
 }
 
 initdb()
